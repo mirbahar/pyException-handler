@@ -34,4 +34,5 @@ https://github.com/mirbahar/pyException-handler/blob/master/example.py
 List:
 =====
 Special Character : ['@','!', '$', '~', '&', '#']
+
 Number List: [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
