@@ -12,6 +12,7 @@ Step two:
 using:
 ------
 using for Special Character Check:
+---------------------------------
 
 try:
     print(specialCharacterCheck('Rahat@!'))
@@ -19,6 +20,7 @@ except Exception as e:
     print ("Exception Reson:",e.message)
 
 using for Number Check: 
+-----------------------
 
 try:
     print(specialCharacterCheck('Rahat@!'))
