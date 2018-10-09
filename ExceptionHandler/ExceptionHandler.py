@@ -19,7 +19,7 @@ def numberExceptionCheck(number):
             string = ''.join(str(e) for e in num)
             raise ExceptionHandler("number "+ string +" Not Accepted",406) # 406 not exceptable Status
 
-try:
-    print (numberExceptionCheck("mir!1@@"))
-except Exception as e:
-    print("Exception Reason:",e.message)
+# try:
+#     print (numberExceptionCheck("mir!1@@"))
+# except Exception as e:
+#     print("Exception Reason:",e.message)
